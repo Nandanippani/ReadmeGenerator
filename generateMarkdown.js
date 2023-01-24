@@ -3,18 +3,17 @@ function generateMarkdown(response) {
   
   # ${response.title}
   
+  # Table of Content
+  -[Description](#description)
+  -[Installation](#installation)
+  -[Usage](#usage)
+  -[Licenses](#licenses)
+  -[Contribution](#contribution)
+  -[Test](#test)
+  -[Questions](#questions)
+
   ## Description:
   ${response.description}
-
-
-  # Table of Content
-  -[description](#description)
-  -[installation](#installation)
-  -[usage](#usage)
-  -[licenses](#licenses)
-  -[contribution](#contribution)
-  -[test](#test)
-  -[questions](#questions)
   
   ## Installation:
   ${response.installation}
@@ -34,6 +33,9 @@ function generateMarkdown(response) {
   ## Questions:
   ### User Name:
   ${response.username}
+
+  ### Github Link:
+  ${response.githublink}
 
   ### Email:
   ${response.email}

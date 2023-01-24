@@ -1,40 +1,42 @@
 
   
-  # p5
+  # ReadMe file generator
   
-  ## Description:
-  desc
-
-
   # Table of Content
-  -[description](#description)
-  -[installation](#installation)
-  -[usage](#usage)
-  -[licenses](#licenses)
-  -[contribution](#contribution)
-  -[test](#test)
-  -[questions](#questions)
+  -[Description](#description)
+  -[Installation](#installation)
+  -[Usage](#usage)
+  -[Licenses](#licenses)
+  -[Contribution](#contribution)
+  -[Test](#test)
+  -[Questions](#questions)
+
+  ## Description:
+  This script generates readme file using inquirer.
   
   ## Installation:
-  install
+  NodeJS, npm install
  
   ## Usage:
-  usage
+  node index.js
   
   ## Licenses:
-  agpl
+  no license
   
   ## Contribution:
-  contrib
+  Please check gitbub url and email
   
   ## Test:
-  test
+  make sure that it creates generated-README.md file
 
   ## Questions:
   ### User Name:
-  nanda
+  nandanippani
+
+  ### Github Link:
+  https://github.com/Nandanippani
 
   ### Email:
-  nan@gmail.com
+  nandanippani@yahoo.com
   
   
