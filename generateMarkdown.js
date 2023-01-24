@@ -4,13 +4,13 @@ function generateMarkdown(response) {
   # ${response.title}
   
   # Table of Content
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[Licenses](#licenses)
-  -[Contribution](#contribution)
-  -[Test](#test)
-  -[Questions](#questions)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Licenses](#licenses)
+  - [Contribution](#contribution)
+  - [Test](#test)
+  - [Questions](#questions)
 
   ## Description:
   ${response.description}

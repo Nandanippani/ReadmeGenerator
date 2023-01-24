@@ -3,13 +3,13 @@
   # ReadMe file generator
   
   # Table of Content
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[Licenses](#licenses)
-  -[Contribution](#contribution)
-  -[Test](#test)
-  -[Questions](#questions)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Licenses](#licenses)
+  - [Contribution](#contribution)
+  - [Test](#test)
+  - [Questions](#questions)
 
   ## Description:
   This script generates readme file using inquirer.
