@@ -3,10 +3,10 @@
 This script generates redme file using inquirer.
 ## Main Page
 Main page looks like this
-![Alt text](images/Readme_mainpage.PNG)
+![Alt text](Readme_mainpage.PNG)
 
 Generated readme file looks like this
-![Alt text](images/redme_generatedfile.PNG)
+![Alt text](redme_generatedfile.PNG)
 
 ### Generated readme file
 
