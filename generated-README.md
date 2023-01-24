@@ -1,6 +1,6 @@
 
   
-  # p3
+  # p5
   
   ## Description:
   desc
@@ -15,26 +15,26 @@
   -[test](#test)
   -[questions](#questions)
   
-  ## installation:
+  ## Installation:
   install
  
-  ## usage:
+  ## Usage:
   usage
   
-  ## licenses:
+  ## Licenses:
   agpl
   
-  ## contribution:
-  contact
+  ## Contribution:
+  contrib
   
-  ## test:
+  ## Test:
   test
 
-  ## questions:
-  ###username:
+  ## Questions:
+  ### User Name:
   nanda
 
-  ###email:
-  email
+  ### Email:
+  nan@gmail.com
   
   

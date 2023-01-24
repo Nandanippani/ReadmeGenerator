@@ -32,10 +32,10 @@ function generateMarkdown(response) {
   ${response.test}
 
   ## Questions:
-  ### username:
+  ### User Name:
   ${response.username}
 
-  ### email:
+  ### Email:
   ${response.email}
   
   `;
