@@ -3,7 +3,7 @@ function generateMarkdown(response) {
   
   # ${response.title}
   
-  ##description:
+  ## Description:
   ${response.description}
 
 
@@ -16,26 +16,26 @@ function generateMarkdown(response) {
   -[test](#test)
   -[questions](#questions)
   
-  ##installation:
+  ## Installation:
   ${response.installation}
  
-  ##usage:
+  ## Usage:
   ${response.usage}
   
-  ##licenses:
+  ## Licenses:
   ${response.licenses}
   
-  ##contribution:
+  ## Contribution:
   ${response.contribution}
   
-  ##test:
+  ## Test:
   ${response.test}
 
-  ##questions:
-  ###username:
+  ## Questions:
+  ### username:
   ${response.username}
 
-  ###email:
+  ### email:
   ${response.email}
   
   `;

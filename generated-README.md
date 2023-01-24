@@ -2,7 +2,7 @@
   
   # p3
   
-  ##description:
+  ## Description:
   desc
 
 
@@ -15,22 +15,22 @@
   -[test](#test)
   -[questions](#questions)
   
-  ##installation:
+  ## installation:
   install
  
-  ##usage:
+  ## usage:
   usage
   
-  ##licenses:
+  ## licenses:
   agpl
   
-  ##contribution:
+  ## contribution:
   contact
   
-  ##test:
+  ## test:
   test
 
-  ##questions:
+  ## questions:
   ###username:
   nanda
 
