@@ -18,11 +18,13 @@ https://github.com/Nandanippani/ReadmeGenerator
 
 ## Installation
 
-N/A
+Install NodeJS 
+then in terminal run below command
+npm install
 
 ## Usage 
 
-node index.js, npm install
+node index.js
 
 ## Credits
 N/A
